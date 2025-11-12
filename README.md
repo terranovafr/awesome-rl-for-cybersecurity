@@ -871,6 +871,7 @@ tool</a>
 * [(2022) The Mathematics of Cyber Defense](https://www.ams.org/journals/notices/202206/rnoti-p1019.pdf)
 
 ### Regular Papers
+* [(2025) Evaluating AI Agents for Cyber Defense: A Comparison of Deep Reinforcement Learning and LLM Approaches](https://doi.org/10.1007/978-3-032-10489-2_36)
 * [(2025) Scalable and Generalizable RL Agents for Attack Path Discovery via Continuous Invariant Spaces](https://hal.science/hal-05182437v1)
 * [(2025) Learning to Communicate in Multi-Agent Reinforcement Learning for Autonomous Cyber Defence](https://arxiv.org/pdf/2507.14658)
 * [(2025) Comparing Traditional Hacking Tools and AI-Driven Alternatives](https://ieeexplore.ieee.org/abstract/document/11012027/)
